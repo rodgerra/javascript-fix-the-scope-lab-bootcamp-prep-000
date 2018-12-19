@@ -17,3 +17,4 @@ return function() {
 return "FUNKY!";
  }
 }
+var theFunk ='FUNKY!'
