@@ -18,4 +18,4 @@ return "FUNKY!";
  }
 }
 var theFunk ='FUNKY!'
-return theFUNK
+console.log(theFUNK)
