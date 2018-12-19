@@ -3,23 +3,13 @@ function myAnimal() {
   var animal = 'dog';
 return animal;
 }
-var animal = 'dog';
+var animal = 'cat';
 function yourAnimal() {
-  var animal ='cat';
-  return animal;
+  var anmial = 'dog';
+return animal;
 }
-const two = 2
+const two = 2;
 function add2(n) {
-  return n + two
+  return (n+2);
 }
 
-var funkyFunction = function() {
-  return function() {
-    return "FUNKY!"
-  }
-}
-
-// We want 'funkyFunction' on the line below to return a function that returns "FUNKY!" -- how can we accomplish that?
-// NOTE: To pass this final test, you only need to modify the code below this line.
-var theFunk= "FUNKY!";
-console.log(theFunk);
