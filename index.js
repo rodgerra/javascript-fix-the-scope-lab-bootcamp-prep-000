@@ -18,3 +18,4 @@ return "FUNKY!";
  }
 }
 var theFunk ='FUNKY!'
+return theFUNK
